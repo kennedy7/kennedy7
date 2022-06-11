@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--👋 Hi there, I’m Kennedy Hillary
--👀 I am interested in web Backend Engineering/Dev
--🔭 I’m currently a freelancer...
--🌱 I am currently experienced with node-ExpressJS, MongoDB, postgresql, mySql and redis.
--👯 I am open to open source contributions/collaborations and Backend gigs, remote or onsite
--📫 To reach me send a mail to kennedyhillary6@gmail.com || call 08166419903;
+*👋 Hi there, I’m Kennedy Hillary
+*👀 I am interested in web Backend Engineering/Dev
+*🔭 I’m currently a freelancer...
+*🌱 I am currently experienced with node-ExpressJS, MongoDB, postgresql, mySql and redis.
+*👯 I am open to open source contributions/collaborations and Backend gigs, remote or onsite
+*📫 To reach me send a mail to kennedyhillary6@gmail.com || call 08166419903;
