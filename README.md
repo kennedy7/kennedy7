@@ -25,8 +25,8 @@
 
 ### :fire: My Stats :
 
-![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedy7&show_icons=true&theme=radical)
+![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedy7&show_icons=true&theme=radical&background=000000)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kennedy7&theme=radical&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedy7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedy7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
