@@ -1,5 +1,5 @@
 
-* 👋 Hi there, I’m Kennedy Hillary
+* 👋 Hi there, I’m Kennedy Hillary.
 * 👀 I am interested in Backend Engineering/Developement
 * 🔭 I’m currently a freelancer....
 * 🌱 Experienced (intermediate) with Nodejs, ExpressJS, Nestjs,Typescript, MongoDB, postgresql, mySql and redis.
