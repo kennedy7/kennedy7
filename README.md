@@ -3,7 +3,7 @@
 * 👀 I am interested in Backend Engineering/Developement.
 * 🔭 I’m currently a freelancer....
 * 🌱 Experienced (intermediate) with Nodejs, ExpressJS, Nestjs,Typescript, MongoDB, postgresql, mySql and redis.
-* 👯 I am available for open source contributions/collaborations and Backend gigs, remote or on-site
+* 👯 I am available for open source contributions/collaborations and Backend gigs, remote or on-site.
 * 📫 To reach me, send a mail to kennedyhillary6@gmail.com || call 08166419903;
 ---
 
